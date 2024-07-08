@@ -13,11 +13,11 @@ https://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 https://event.pull.hebtv.com/jishi/cp4.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="北京卫视" tvg-type="1" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
 https://k99441.kylintv.tv/live/btvhd_iphone.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="湖南卫视" tvg-type="1" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
+#EXTINF:-1 group-title="卫视台" tvg-id="湖南卫视" tvg-type="0" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
 https://k44991.kylintv.tv/live/huntvhd_iphone.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="东方卫视" tvg-type="1" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
 https://k99441.kylintv.tv/live/dragontvhd_iphone.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="四川卫视" tvg-type="1" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
+#EXTINF:-1 group-title="卫视台" tvg-id="四川卫视" tvg-type="0" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
 https://k44991.kylintv.tv/live/sctvhd_iphone.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="青海卫视" tvg-type="1" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
 https://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=dbb9f11e1720072042
