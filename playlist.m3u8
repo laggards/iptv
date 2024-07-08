@@ -31,13 +31,13 @@ https://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 #EXTINF:-1 group-title="卫视台" tvg-id="凤凰资讯台" tvg-type="1" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png",凤凰资讯
 https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
-#EXTINF:-1 group-title="卫视台" tvg-id="凤凰美洲" tvg-type="1" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视美洲台.png",凤凰美洲
+#EXTINF:-1 group-title="卫视台" tvg-id="凤凰美洲" tvg-type="1" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png",凤凰美洲
 https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8
-#EXTINF:-1 group-title="教育" tvg-id="CETV1中国教育电视台一套" tvg-type="1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",教育一套
+#EXTINF:-1 group-title="卫视台" tvg-id="CETV1中国教育电视台一套" tvg-type="1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",教育一套
 https://hwylivehd.centv.cn/cetv1/ypd.m3u8
-#EXTINF:-1 group-title="教育" tvg-id="CETV2中国教育电视台二套" tvg-type="1" tvg-logo="https://live.fanmingming.com/tv/CETV2.png",教育二套
+#EXTINF:-1 group-title="卫视台" tvg-id="CETV2中国教育电视台二套" tvg-type="1" tvg-logo="https://live.fanmingming.com/tv/CETV2.png",教育二套
 https://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8
-#EXTINF:-1 group-title="教育" tvg-id="CETV3中国教育电视台三套" tvg-type="1" tvg-logo="https://live.fanmingming.com/tv/CETV3.png",教育三套
+#EXTINF:-1 group-title="卫视台" tvg-id="CETV3中国教育电视台三套" tvg-type="1" tvg-logo="https://live.fanmingming.com/tv/CETV3.png",教育三套
 https://hwylivehd.centv.cn/cetv3/bjdm.m3u8
-#EXTINF:-1 group-title="教育" tvg-id="CETV4空中课堂频道" tvg-type="1" tvg-logo="https://live.fanmingming.com/tv/CETV4.png",空中课堂
+#EXTINF:-1 group-title="卫视台" tvg-id="CETV4空中课堂频道" tvg-type="1" tvg-logo="https://live.fanmingming.com/tv/CETV4.png",空中课堂
 https://hwylivehd.centv.cn/cetv4/zjpd.m3u8
